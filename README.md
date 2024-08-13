@@ -1,2 +1,2 @@
 # NetworkScanner
-Easy NetworkScanner
+Easy Network Scanner For LİNUX
